@@ -1,6 +1,6 @@
 {
     "name": "assets_launcher",
-    "version": "1.0.1",
+    "version": "2.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
